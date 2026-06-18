@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+/*import React, { useState, useEffect } from "react";
 
 // Standard Master Items List - Exactly 5 High Quality Premium Products Per Category
 const bakeryItems = [
@@ -884,4 +884,11 @@ const styles = {
     marginTop: "60px",
     borderTop: "3px solid #5d4037"
   }
-};
+};*/
+export default function App() {
+  return (
+    <div>
+      <h1>Hello World</h1>
+    </div>
+  );
+  }
